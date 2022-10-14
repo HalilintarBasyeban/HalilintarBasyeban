@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HalilintarBasyeban
-- 👀 I’m interested in web programing, front end programming, data science, and back end programming
-- 🌱 I’m currently learning react js, python, R, and Laravel 8
+- 👀 I’m interested in web programing, and data analytic
+- 🌱 I’m currently learning python and Mysql for data analytic
 - 📫 You can contact me at : Halilintarbasyeban@gmail.com
 
 <!---

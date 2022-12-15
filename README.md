@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalilintarBasyeban
-- 👀 I’m interested in web programing, and data analytic
+- 👀 I’m interested in web programing, data analytics, and data science
 - 🌱 I’m currently learning python and Mysql for data analytic
 - 📫 You can contact me at : Halilintarbasyeban@gmail.com
 
